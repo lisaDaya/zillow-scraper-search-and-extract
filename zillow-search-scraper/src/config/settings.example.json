@@ -1,0 +1,7 @@
+{
+  "search_url": "https://www.zillow.com/homes/for_sale/",
+  "proxies": {
+    "http": "http://proxy.example.com:8080",
+    "https": "https://proxy.example.com:8080"
+  }
+}
