@@ -1,0 +1,17 @@
+[
+  {
+    "rawHomeStatusCd": "ForSale",
+    "detailUrl": "https://www.zillow.com/homedetails/13732-Charles-W-Fairbanks-Cv-Manor-TX-78653/12345678_zpid/",
+    "statusType": "FOR_SALE",
+    "statusText": "Active",
+    "price": "$2,498",
+    "address": "13732 Charles W Fairbanks Cv, Manor, TX 78653",
+    "latLong": {
+      "latitude": 30.359379,
+      "longitude": -97.50994
+    },
+    "beds": 4,
+    "baths": 2,
+    "area": 1920
+  }
+]
