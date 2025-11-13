@@ -1,0 +1,3 @@
+Search terms for Zillow properties, e.g.:
+- San Francisco, CA
+- New York, NY
